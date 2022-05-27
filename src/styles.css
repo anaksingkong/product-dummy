@@ -4,15 +4,9 @@
 html, body {
   margin: 0;
   padding: 0;
-  /* overflow: hidden; */
 }
 
 .container{
-  /* border: 1px solid salmon; */
   height: calc(100vh - 73px) !important;
-  /* background-color: aquamarine; */
-  /* display: flex;
-  align-items: center;
-  justify-content: center; */
 }
 
