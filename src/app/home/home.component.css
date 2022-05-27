@@ -1,0 +1,30 @@
+.title{
+  /* border: 1px solid slateblue; */
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title ul, li{
+  list-style: none;
+}
+
+.title a{
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+  background-color: rgba(20, 115, 216, 0.746);
+  text-decoration: none;
+  margin-left: 2rem;
+  padding: 7px 20px;
+  border-radius: 5px;
+}
+
+.title a:hover{
+  color: #eee;
+  background-color: rgba(20, 115, 216, 0.948);
+  font-weight: bold;
+  text-shadow: 0.2px 0.1px 0.5px rgba(48, 46, 48, 0.293);
+  transition: ease-out 0.5s all;
+}
