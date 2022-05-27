@@ -1,0 +1,39 @@
+.layout {
+  border-radius: 15px;
+  box-shadow: 1px 1px 17px 0px #ccc;
+}
+
+.layout a {
+  text-decoration: none;
+  color: black;
+}
+
+.card-title {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.card-img-top {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  height: 210px;
+}
+
+.beli {
+  font-weight: 700;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+  color: #fff;
+  background-color: rgba(20, 115, 216, 0.84);
+}
+
+
+.card-text span {
+  font-weight: 450;
+}
+
+.card-text {
+  font-weight: 500;
+}
